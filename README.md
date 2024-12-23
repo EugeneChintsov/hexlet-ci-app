@@ -1,4 +1,3 @@
-[![start-project](https://github.com/EugeneChintsov/hexlet-ci-app/actions/workflows/base-workflow.yml/badge.svg)](https://github.com/EugeneChintsov/hexlet-ci-app/actions/workflows/base-workflow.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
